@@ -1,0 +1,1 @@
+INSERT INTO Tags (name) Values ("Marrokanisch")
